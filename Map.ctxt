@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Map
+comment0.text=\r\n\ Write\ a\ description\ of\ JavaFX\ class\ Map\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Map()
+comment2.params=stage
+comment2.target=void\ start(javafx.stage.Stage)
+comment2.text=\r\n\ The\ start\ method\ is\ the\ main\ entry\ point\ for\ every\ JavaFX\ application.\ \r\n\ It\ is\ called\ after\ the\ init()\ method\ has\ returned\ and\ after\ \r\n\ the\ system\ is\ ready\ for\ the\ application\ to\ begin\ running.\r\n\r\n\ @param\ \ stage\ the\ primary\ stage\ for\ this\ application.\r\n
+comment3.params=event
+comment3.target=void\ buttonClick(javafx.event.ActionEvent)
+comment3.text=\r\n\ This\ will\ be\ executed\ when\ the\ button\ is\ clicked\r\n\ It\ increments\ the\ count\ by\ 1\r\n
+comment4.params=
+comment4.target=void\ displayBoroughs()
+numComments=5
